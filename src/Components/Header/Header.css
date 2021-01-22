@@ -1,0 +1,26 @@
+.GeneralHeader{
+ height: 60px;
+ width: 100vw;
+ background-color: #123456;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.widthHead{
+    width: 1000px;
+    /* background-color: violet; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: space-around;
+}
+
+.HeaderTextHold{
+    width: 900px;
+    color: white;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: space-around;
+}
